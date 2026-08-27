@@ -1,0 +1,35 @@
+{
+  "verifiedAt": "2026-08-27",
+  "runtime": {
+    "format": "WEBP",
+    "mode": "RGBA",
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "spriteVersionNumber": 2
+  },
+  "frameIsolation": {
+    "ok": true,
+    "usedCells": 74,
+    "edgeHitCells": 0,
+    "secondaryComponentCells": 0,
+    "repairedRows": [
+      "idle",
+      "running-left",
+      "review"
+    ]
+  },
+  "visualReview": {
+    "status": "pass",
+    "additionalRepairRequested": false,
+    "notes": [
+      "Pet identity and palette remain readable at small size.",
+      "The repaired hat brims stay inside their frame cells.",
+      "Unused cells remain transparent.",
+      "Minor look-direction ambiguity in a few intermediate frames is accepted."
+    ]
+  }
+}

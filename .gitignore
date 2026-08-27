@@ -1,0 +1,22 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local installer backups
+*.backup-*/
+*.backup-*
+
+# Build and scratch output
+work/
+outputs/
+dist/
+tmp/
+*.log
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
